@@ -1,0 +1,22 @@
+{
+	"blocks": {
+		"cobblestone": "cobblestone.png",
+		"stone": "stone.png",
+		"oak_log": "oak_log_top.png",
+		"oak_planks": "oak_planks.png",
+		"oak_trapdoor": "oak_trapdoor.png",
+		"stripped_oak_log": "stripped_oak_log_top.png",
+		"spruce_log": "spruce_log_top.png",
+		"spruce_planks": "spruce_planks.png",
+		"spruce_trapdoor": "spruce_trapdoor.png",
+		"stripped_spruce_log": "stripped_spruce_log_top.png",
+		"diamond_block": "diamond_block.png",
+		"gold_block": "gold_block.png",
+		"iron_block": "iron_block.png",
+		"emerald_block": "emerald_block.png",
+		"lapis_block": "lapis_block.png",
+		"grass_block": "grass_block_top.png",
+		"dirt": "dirt.png",
+		"netherite_block": "netherite_block.png"
+	}
+}
